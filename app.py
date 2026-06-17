@@ -3,7 +3,8 @@ from transformers import pipeline
 # ---------------- PAGE CONFIG ---------------- #
 
 
-st.set_page_config( page_title="GPT-2 Chat AI",page_icon="🤖",
+st.set_page_config( page_title="GPT-2 Chat AI",
+                   page_icon="🤖",
     layout="wide"
 )
 
