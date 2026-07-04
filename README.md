@@ -18,11 +18,9 @@
 
 ---
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/132b8e6b-6275-4ab3-9d39-2e630dac16a2" width="30%">
-<img src="https://github.com/user-attachments/assets/16d6cb01-ad93-413b-a79c-ac7a2b5a01ea" width="30%">
-<img src="https://github.com/user-attachments/assets/08de754e-2f5b-4055-a559-42cc2bd2f2d3" width="30%">
-
+  <img src="https://github.com/user-attachments/assets/132b8e6b-6275-4ab3-9d39-2e630dac16a2" height="420">
+  <img src="https://github.com/user-attachments/assets/16d6cb01-ad93-413b-a79c-ac7a2b5a01ea" height="420">
+  <img src="https://github.com/user-attachments/assets/08de754e-2f5b-4055-a559-42cc2bd2f2d3" height="420">
 </div>
 # 📌 Project Overview
 
