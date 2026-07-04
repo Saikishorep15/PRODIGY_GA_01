@@ -5,9 +5,6 @@
 ### 🚀 Prodigy GenAI Internship — Task 01
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=GPT-2+Powered+Text+Generation;Generative+AI+Using+Transformers;Hugging+Face+%7C+Streamlit+%7C+Python" />
-<img width="480" height="626" alt="image" src="https://github.com/user-attachments/assets/cc76d013-eb5f-46b7-89a8-3549e52e7124" />
-
-
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
