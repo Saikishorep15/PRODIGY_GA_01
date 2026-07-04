@@ -4,7 +4,8 @@
 
 ### 🚀 Prodigy GenAI Internship — Task 01
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=GPT-2+Powered+Text+Generation;Generative+AI+Using+Transformers;Hugging+Face+%7C+Streamlit+%7C+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=GPT-2+Powered+Text+Generation;Generative+AI+Using+Transformers;Hugging+Face+%7C+Streamlit+%7C+Python"   <img width="480" height="626" alt="image" src="https://github.com/user-attachments/assets/9d4171c4-0a32-4a30-a4aa-40d49d6ec5cc" />
+ />
 
 <br>
 
